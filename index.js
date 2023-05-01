@@ -20,3 +20,13 @@ if (alertTrigger) {
   })
 }
 
+
+// let interval = window.setTimeout(() => {
+  
+  
+  
+//  let doc = document.getElementById('alert').style;
+//  console.log(doc);
+// }, 5000);
+// clearInterval(interval);
+// document.getElementById('alert').style.display="none";
